@@ -8,4 +8,7 @@ h2 {font-weight: bold;
     color: mediumvioletred; 
     text-align:center }
 p {color: blue;
-   backgr
+   background-color: azure;
+   font-size: 18px;
+   text-align: justify; }
+
