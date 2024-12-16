@@ -5,4 +5,10 @@
 <link rel=https://github.com/guglielmoressa/HTML/blob/main/esercizi/css/stile1.css "type="text/css">
 </HEAD>
 <BODY>
-<h1        
+<h1>Gli algoritmi </h1>
+<h2> Su cosa si basano gli algoritmi standard? </h2>
+<p> Gli algoritmi si fondano su modelli di apprendimento automatico, che impiega la statistica:<br> rilevano nei dati similarità e ripetizioni, prevedendo – almeno in termini di alternative probabilistiche – i comportamenti futuri. </p>
+<h2> Quali sono le caratteristiche fondamentali degli algoritmi? </h2>
+<p>Finitezza: ogni istruzione va eseguita in un tempo finito e deve essere eseguita un numero finito di volte;<br> Generalità: un algoritmo deve fornire soluzione per tutti i problemi di una classe;<br> Non ambiguità: i passi devono essere univoci, evitare paradossi, contraddizioni e ambiguità. </p>
+</BODY>
+</html>
